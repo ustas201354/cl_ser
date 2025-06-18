@@ -1,6 +1,8 @@
 #include <QCoreApplication>
 #include "tcpclient.h"
-#simple main
+
+//simple main
+
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
