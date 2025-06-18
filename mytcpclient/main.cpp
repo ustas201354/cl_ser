@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include "tcpclient.h"
 
-//simple main
+//simple main + I WROTE DOWN HEAR
 
 int main(int argc, char *argv[])
 {
